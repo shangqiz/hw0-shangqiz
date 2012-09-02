@@ -8,7 +8,7 @@
 
 		<connection>scm:git:git@github.com:shangqiz/hw0-shangqiz.git</connection>
 		<developerConnection>scm:git:git@github.com:shangqiz/hw0-shangqiz.git</developerConnection>
-		<url>scm:git:git://github.com/shangqiz/hw0-shangqiz.git</url>
+		<url>scm:git:git@github.com:shangqiz/hw0-shangqiz.git</url>
 	</scm>
 
 
