@@ -5,7 +5,7 @@
 	<artifactId>hw0-shangqiz</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
-		<url>scm:git:git://github.com/shangqiz/hw0-shangqiz.git</url>
+		
 		<connection>scm:git:git@github.com:shangqiz/hw0-shangqiz.git</connection>
 		<developerConnection>scm:git:git@github.com:shangqiz/hw0-shangqiz.git</developerConnection>
 	</scm>
@@ -51,13 +51,16 @@ course-snapshots</url>
 							<goal>perform</goal>
 						</goals>
 						<configuration>
-							<pomFileName>hw0-ANDREW_ID/pom.xml</pomFileName>
+							<pomFileName>hw0-shangqiz/pom.xml</pomFileName>
 						</configuration>
 					</execution>
 				</executions>
 			</plugin>
 		</plugins>
 	</build>
+	<dependencies>
+	
+	</dependencies>
 </project>
   
   
